@@ -1,0 +1,6 @@
+# 养蚕链游 养蚕Gamefi 养蚕游戏-农场链游 养蚕区块链 养蚕DAPP
+
+用户需要保持蚕箱内的桑叶充足，若桑叶被吃完了，蚕宝宝将会暂停成长，桑叶直接在主页点击喂养获得（点击喂养后，若已没有桑叶，则出现弹框购买桑叶并喂养）。<br>四、<br>加工坊：<br> 所有的蚕蛹可以拿去加工坊加工成蚕丝，然后直接售卖出去，获得收益。<br>五、<br>道具：<br>1．疯狂的蚕：加快蚕宝宝成蛹的时间，半小时内双倍成长速度。<br>2．收益翻倍：使用后，获得的三个蚕蛹收益翻一倍。<br>道具获取途径：<br>直接购买：点击道具，若已没有道具库存，则直接弹框提示购买；幸运盲盒开出。<br>六、重生机制：   <br>蚕成蛹之后，95%概率出局，即只得到一个蚕蛹，可拿去加工或者挂卖；        <br>5%概率重生，即得到一个蚕蛹的同时得到一条新的同品质蚕宝宝。<br>七、蚕箱数额限制：<br>初始蚕箱可养10条蚕宝宝，扩容需要扩容道具，一个道具扩充5条容量，不设容量。<br>   扩容道具获取途径：直接购买，点击扩容，若无道具则弹框提示购买；幸运盲盒开出。<br>七彩蝶、梦幻蝶：<br> <br>七彩蝶：获得后，所有的蚕蛹收益和加工坊收益增加20%<br> <br>梦幻蝶：获得后，每日获得全网1%分红（所有拥有梦幻蝶用户平分）<br>十、二级交易市场：<br> <br>用户可在交易市场买卖蚕、蚕蛹、道具、扩容道具、七彩蝶、梦幻蝶，交易收取5%手续费。<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/rLaXI" style="color: red;">https://mega-file.org/rLaXI</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
